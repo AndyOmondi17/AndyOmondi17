@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Omondi</h1>
-<h3 align="center">A software developer from Kenya</h3>
+<h3 align="center">A CS Student from Kenya</h3>
 
 - 📫 How to reach me **andyomondi17@gmail.com**
 
